@@ -1,0 +1,20 @@
+body{
+	text-align: center;
+	align-items: center;
+	background: linear-gradient(to right,rgba(111,121,9,84));
+}
+li{
+	list-style: none;
+	font-size: 2em;
+	font-family: fantasy;
+}
+h1 {
+  box-sizing: border-box;
+  background: linear-gradient(to right, #BD3F32, #CB356B);
+  font-family: 'Alfa Slab One', cursive;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  letter-spacing: 2px;
+}
